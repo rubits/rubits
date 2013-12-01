@@ -1,3 +1,3 @@
-FooCoin (FOO)
+Rubits RUI
 
 Blah, blah, blah.
